@@ -285,7 +285,7 @@ nav{
 }
 .col{
     display: flex;
-    width: 50%;
+    width: 100%;
 }
 
 /* -- ## --- RESUABLE CSS -- ## -- */
